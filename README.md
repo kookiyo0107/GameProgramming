@@ -1,11 +1,15 @@
-주제: 1학년A반 chapter5 ZOOM링크
+# 1학년 A반 Chapter 5 ZOOM 수업
 
-시간: 2026년 9월 29일 02:00 오후 서울
-Zoom 회의 참가
-https://us06web.zoom.us/j/86988449679?pwd=iBFJbObWJaRHOUt2v0WWkaLiyP1tgm.1
-참가 및 노트 작성
-https://us06web.zoom.us/j/86988449679?pwd=iBFJbObWJaRHOUt2v0WWkaLiyP1tgm.1&mynotes=on
-회의 채팅 링크
-https://us06web.zoom.us/launch/jc/86988449679
-회의 ID: 869 8844 9679
-암호: 560589
+- 일시: 2026년 9월 29일(화) 오후 2:00
+
+## 참가 방법 (앱 설치·로그인 없이 브라우저로 참가)
+👉 https://us06web.zoom.us/wc/join/86988449679?pwd=iBFJbObWJaRHOUt2v0WWkaLiyP1tgm.1
+
+1. 위 링크를 크롬 또는 엣지로 엽니다.
+2. 이름을 **학번_이름** 형식으로 입력합니다. (예: 2026001_홍길동)
+3. [참가]를 누릅니다.
+
+## 링크가 안 될 때
+- 회의 ID: 869 8844 9679
+- 암호: 560589
+- https://zoom.us/join 에 접속해 위 정보를 입력하세요.
